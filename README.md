@@ -15,10 +15,6 @@ I am a passionate web developer, with the ability to create responsive, aestheti
   </a>
 </p>
 
-//
-
-https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white
-
 ### 🔧 Languages and Tools
 <img align="left" alt="React"  width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" alt="SASS"  width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
