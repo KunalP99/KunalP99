@@ -1,16 +1,32 @@
-### Hi there 👋
+# 👋 Hi, I'm Kunal Patel
+I am a passionate web developer, with the ability to create responsive, aesthetic websites using a range of the latest tools and technologies. I enjoy every aspect of the process, from conceptualizing the design to crafting the code.
 
-<!--
-**KunalP99/KunalP99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**If you haven't already, check out my portfolio 👉 [kportfolio](https://kunalp99.github.io/kportfoliov2/)**
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://www.linkedin.com/in/kunalpatel99/">
+    <img alt="LinkedIn profile" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto: kunal_patel200@hotmail.co.uk">
+    <img alt="Outlook email addresss" title="Email me" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Languages and Tools
+<img align="left" alt="React"  width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="SASS"  width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+<img align="left" alt="HTML"  width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS"  width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="JavaScript"  width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="TypeScript"  width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img align="left" alt="Express"  width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+<img align="left" alt="Git"  width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="Figma"  width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+<br />
+
+#
+
+### Featured Repos
+- [kportfoliov2](https://github.com/KunalP99/kportfoliov2) - My portfolio of projects
+- [Games Inventory](https://github.com/KunalP99/inventory-management) - Inventory management application
+- [Hoodies](https://github.com/KunalP99/shopping-cart) - Fake e-commerce website
