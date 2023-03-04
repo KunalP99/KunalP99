@@ -10,7 +10,14 @@ I am a passionate web developer, with the ability to create responsive, aestheti
   <a href="mailto: kunal_patel200@hotmail.co.uk">
     <img alt="Outlook email addresss" title="Email me" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
+  <a href="m">
+    <img alt="CV" title="CV" src="https://img.shields.io/badge/CV-View%20my%20CV-red?style=for-the-badge">
+  </a>
 </p>
+
+//
+
+https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white
 
 ### 🔧 Languages and Tools
 <img align="left" alt="React"  width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
