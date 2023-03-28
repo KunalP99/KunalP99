@@ -10,7 +10,7 @@ I am a passionate web developer, with the ability to create responsive, aestheti
   <a href="mailto: kunal_patel200@hotmail.co.uk">
     <img alt="Outlook email addresss" title="Email me" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
-  <a href="m">
+  <a href="https://drive.google.com/file/d/1NBamYm6sunKIGy8fuAjeGWqw1d-DnAU_/view">
     <img alt="CV" title="CV" src="https://img.shields.io/badge/CV-View%20my%20CV-red?style=for-the-badge">
   </a>
 </p>
