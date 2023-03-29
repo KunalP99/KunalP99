@@ -4,13 +4,13 @@ I am a passionate web developer, with the ability to create responsive, aestheti
 **If you haven't already, check out my portfolio 👉 [kportfolio](https://kunalp99.github.io/kportfoliov2/)**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kunalpatel99/">
+  <a href="https://www.linkedin.com/in/kunalpatel99/" target="_blank">
     <img alt="LinkedIn profile" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto: kunal_patel200@hotmail.co.uk">
     <img alt="Outlook email addresss" title="Email me" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
-  <a href="https://drive.google.com/file/d/1NBamYm6sunKIGy8fuAjeGWqw1d-DnAU_/view">
+  <a href="https://drive.google.com/file/d/1NBamYm6sunKIGy8fuAjeGWqw1d-DnAU_/view" target="_blank">
     <img alt="CV" title="CV" src="https://img.shields.io/badge/CV-View%20my%20CV-red?style=for-the-badge">
   </a>
 </p>
