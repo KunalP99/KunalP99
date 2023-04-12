@@ -30,6 +30,7 @@ I am a passionate web developer, with the ability to create responsive, aestheti
 #
 
 ### Featured Repos
+- [Popcorn.](https://github.com/KunalP99/movie-project) - Movie database website (WIP)
 - [kportfoliov2](https://github.com/KunalP99/kportfoliov2) - My portfolio of projects
 - [Games Inventory](https://github.com/KunalP99/inventory-management) - Inventory management application
 - [Hoodies](https://github.com/KunalP99/shopping-cart) - Fake e-commerce website
