@@ -22,6 +22,8 @@ I am a passionate web developer, with the ability to create responsive, aestheti
 <img align="left" alt="CSS"  width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="JavaScript"  width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="TypeScript"  width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img align="left" alt="Jest"  width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
+<img align="left" alt="NextJS"  width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"/>
 <img align="left" alt="Express"  width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
 <img align="left" alt="Git"  width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Figma"  width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
@@ -30,7 +32,7 @@ I am a passionate web developer, with the ability to create responsive, aestheti
 #
 
 ### Featured Repos
-- [Popcorn.](https://github.com/KunalP99/movie-project) - Movie database website (WIP)
+- [NoteDown](https://github.com/KunalP99/notedown) - Note-taking application utilizing markdown for formatting
 - [kportfoliov2](https://github.com/KunalP99/kportfoliov2) - My portfolio of projects
 - [Games Inventory](https://github.com/KunalP99/inventory-management) - Inventory management application
-- [Hoodies](https://github.com/KunalP99/shopping-cart) - Fake e-commerce website
+- [Popcorn.](https://github.com/KunalP99/movie-project) - Movie database website (WIP)
